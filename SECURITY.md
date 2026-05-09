@@ -171,4 +171,4 @@ We thank the following security researchers for responsible disclosure:
 
 ---
 
-Last Updated: 2024-01-15
+Last Updated: 15-05-2026

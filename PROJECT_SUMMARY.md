@@ -358,14 +358,12 @@ MIT License - see [LICENSE](LICENSE) file.
 
 ## 📧 Contact
 
-- **GitHub**: https://github.com/yourusername/phishguard
-- **Email**: support@phishguard.com
-- **Discord**: https://discord.gg/phishguard
-- **Twitter**: @phishguard
+- **GitHub**: https://github.com/RamK2006/phishguard
+
 
 ---
 
 **Built with ❤️ for a safer internet**
 
-Last Updated: 2024-01-15
-Version: 1.0.0
+Last Updated: 2026-05-10
+Version: 2.0.0

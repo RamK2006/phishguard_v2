@@ -530,9 +530,8 @@ When tests fail:
 
 ## Support
 
-- **GitHub Issues**: https://github.com/yourusername/phishguard/issues
-- **Discord**: https://discord.gg/phishguard
-- **Email**: support@phishguard.com
+- **GitHub Issues**: https://github.com/RamK2006/phishguard/issues
+
 
 ---
 
